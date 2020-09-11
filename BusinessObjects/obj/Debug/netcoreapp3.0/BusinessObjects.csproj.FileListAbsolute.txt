@@ -1,0 +1,16 @@
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\bin\Debug\netcoreapp3.0\BusinessObjects.deps.json
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\bin\Debug\netcoreapp3.0\BusinessObjects.dll
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\bin\Debug\netcoreapp3.0\BusinessObjects.pdb
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.csprojAssemblyReference.cache
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.AssemblyInfo.cs
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.dll
+D:\Documents\Univer\Dyplom_proj\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.pdb
+D:\mine\Partial_proj\BusinessObjects\bin\Debug\netcoreapp3.0\BusinessObjects.deps.json
+D:\mine\Partial_proj\BusinessObjects\bin\Debug\netcoreapp3.0\BusinessObjects.dll
+D:\mine\Partial_proj\BusinessObjects\bin\Debug\netcoreapp3.0\BusinessObjects.pdb
+D:\mine\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.csprojAssemblyReference.cache
+D:\mine\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\mine\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.AssemblyInfo.cs
+D:\mine\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.dll
+D:\mine\Partial_proj\BusinessObjects\obj\Debug\netcoreapp3.0\BusinessObjects.pdb
